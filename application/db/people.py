@@ -1,2 +1,2 @@
-def print_employee_name():
+def get_employees():
     print('Директор проекта Михалыч')
